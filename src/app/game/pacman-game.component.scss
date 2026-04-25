@@ -1,0 +1,19 @@
+.game-shell {
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  padding: 1rem;
+  text-align: center;
+  background: #0b1020;
+  color: #e8ecff;
+}
+
+.title {
+  margin: 0 0 0.5rem;
+  letter-spacing: 0.06em;
+}
+
+.hint {
+  margin: 0;
+  opacity: 0.75;
+}

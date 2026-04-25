@@ -1,0 +1,32 @@
+# Dependencies
+/node_modules
+
+# Build
+/dist
+/out-tsc
+/.angular/cache
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Env
+.env
+.env.*.local
+
+# Python game
+__pycache__/
+*.py[cod]
+.pytest_cache/
+save.json
+.venv/
+venv/
